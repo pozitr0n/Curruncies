@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21513" systemVersion="22D68" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Currencies" representedClassName="CoreDataServices" syncable="YES">
+        <attribute name="baseCurrency" optional="YES" attributeType="String"/>
+        <attribute name="currencyDate" optional="YES" attributeType="String"/>
+        <attribute name="rateKey" optional="YES" attributeType="String"/>
+        <attribute name="rateValue" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+    </entity>
+</model>
